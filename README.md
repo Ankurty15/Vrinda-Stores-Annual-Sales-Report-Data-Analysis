@@ -1,1 +1,1 @@
-# Vrinda-Stores-Annual-Sales-Report-Data-Analysis
+This repository includes the Vrinda Stores Annual Sales Report for 2022, along with an interactive dashboard designed for data analysis and insights. The objective of this project is to analyze sales trends, gain insights into customer behavior, and offer strategic recommendations to promote sales growth in 2023.
